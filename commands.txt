@@ -7,5 +7,6 @@ git init=> to initialize git on project
 git commit
  git commit -m it gives message
 
- 
+git config --global user.email "s.r.barbate@gmail.com"
+git config --global user.name "Sonal"
  git branch
