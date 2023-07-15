@@ -2,3 +2,10 @@ git init=> to initialize git on project
 
 
  git add -A to add files to staged state(now git tracking all files)
+
+
+git commit
+ git commit -m it gives message
+
+ 
+ git branch
