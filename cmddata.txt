@@ -1,0 +1,3 @@
+git config --global user.email "s.r.barbate@gmail.com"
+PS E:\GitProject\Mywebsite> git config --global user.name "Sonal"
+
